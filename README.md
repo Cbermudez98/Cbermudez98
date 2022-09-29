@@ -6,3 +6,5 @@
 
 - I love working in project and share with my partners, I love learning new things, not only tech :computer:
 - I love learning lenguage :us: :brazil: :fr:
+
+- Let's take a coffee together :coffee:
