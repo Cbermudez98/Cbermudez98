@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there!
 
 I'm [Cbermudez98](https://github.com/Cbermudez98), a passionate backend developer who loves technology and is always eager to learn. 🚀
 
