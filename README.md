@@ -32,4 +32,6 @@
   <img src="https://github.com/Cbermudez98/Cbermudez98/assets/54110212/36c21af7-ba7a-4da0-a887-a777bb69e3f5" alt="angular">
   <img src="https://github.com/Cbermudez98/Cbermudez98/assets/54110212/8510c6d7-f42b-4798-9db9-c31917a83686" alt="github">
   <img src="https://github.com/Cbermudez98/Cbermudez98/assets/54110212/b4d2a8bb-6739-44a7-89b4-34845699edec" alt="jest">
+  <img src="https://github.com/Cbermudez98/Cbermudez98/assets/54110212/68ddbab1-cb8b-455b-bed6-03e71799c559" width="50" height="50" alt="golang">
+  <img src="https://github.com/Cbermudez98/Cbermudez98/assets/54110212/ebbc8e90-14ce-428c-bc80-568806be15f9" width="50" height="50" alt="python">
 </p>
