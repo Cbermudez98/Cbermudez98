@@ -20,7 +20,7 @@
 <h2 align="left">Technologies I Work With</h2>
 
 <p align="left">
-  <img src="https://github.com/Cbermudez98/Cbermudez98/assets/54110212/9c200782-56bc-4ecb-95b6-c97abb008acc" alt="express.js">
+  <img src="https://github.com/Cbermudez98/Cbermudez98/assets/54110212/17b58574-1ceb-4db2-adb7-c300263cf691" alt="express.js">
   <img src="https://github.com/Cbermudez98/Cbermudez98/assets/54110212/f4c23049-1209-4aa1-b301-2cd80144b5cb" alt="nest.js">
   <img src="https://github.com/Cbermudez98/Cbermudez98/assets/54110212/fa97a5fd-86ae-4e0d-9ac6-4998882e2d6a" alt="node.js">
   <img src="https://github.com/Cbermudez98/Cbermudez98/assets/54110212/88c15290-e5e3-4d89-8643-e21c08d66fc9" alt="typescript">
