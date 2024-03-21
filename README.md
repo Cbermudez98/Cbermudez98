@@ -34,4 +34,5 @@
   <img src="https://github.com/Cbermudez98/Cbermudez98/assets/54110212/b4d2a8bb-6739-44a7-89b4-34845699edec" alt="jest">
   <img src="https://github.com/Cbermudez98/Cbermudez98/assets/54110212/68ddbab1-cb8b-455b-bed6-03e71799c559" width="50" height="50" alt="golang">
   <img src="https://github.com/Cbermudez98/Cbermudez98/assets/54110212/ebbc8e90-14ce-428c-bc80-568806be15f9" width="50" height="50" alt="python">
+  <img src="https://github.com/Cbermudez98/Cbermudez98/assets/54110212/d7915209-c9eb-49a3-a6b6-d5fb01514507" width="50" height="50" alt="docker">
 </p>
